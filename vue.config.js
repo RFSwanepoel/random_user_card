@@ -1,4 +1,4 @@
 module.exports = {
   transpileDependencies:[/node_modules[/\\\\]Vuetify[/\\\\]/],
-  baseUrl: '/random_user_card/'
+  publicPath: '/random_user_card/'
 }

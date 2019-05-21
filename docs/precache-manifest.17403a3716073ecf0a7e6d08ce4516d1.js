@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/random_user_card/img/locked.453a907b.svg"
   },
   {
-    "revision": "be91c082441413f83c94",
-    "url": "/random_user_card/js/app.58fdc82a.js"
+    "revision": "82692e16c5faca4b8572",
+    "url": "/random_user_card/js/app.5dc90834.js"
   },
   {
     "revision": "1f06a9e183714bd4ab77",
@@ -76,11 +76,11 @@ self.__precacheManifest = [
     "url": "/random_user_card/img/hamburger.a28cc8d1.svg"
   },
   {
-    "revision": "27abb4e3bbe500af19a77908446b9de2",
+    "revision": "585c82747049ed73c0c3a65ebf3f221b",
     "url": "/random_user_card/index.html"
   },
   {
-    "revision": "be91c082441413f83c94",
+    "revision": "82692e16c5faca4b8572",
     "url": "/random_user_card/css/app.51d1eef6.css"
   }
 ];

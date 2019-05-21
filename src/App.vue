@@ -39,7 +39,7 @@
                   <v-layout justify-center row wrap class="elevation-0">
                     <template v-for="(btn, key) in userDetails">
                       <v-btn :key="`btn_1_${key}`" :flat="!userDetails[key].active" small icon fab color="rgb(131, 186, 67)" @mouseenter.stop="toggleButtonActive(key)" >
-                        <v-img aspect-ratio="2" contain  :src="require(`./assets/icons/${key}.svg`)" />
+                        <v-img aspect-ratio="2" contain :src="require(`@/assets/icons/${key}.svg`)" />
                       </v-btn>
                     </template>
                   </v-layout>
